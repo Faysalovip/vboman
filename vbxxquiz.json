@@ -8,12 +8,12 @@
 "show_button_1":"yes",
 "show_button_2":"yes",
 "show_button_3":"yes",
-"show_button_4":"non",
+"show_button_4":"yes",
   
- "button1_text":"4200",
- "button2_text":"8250",
- "button3_text":"15300",
- "button4_text":"button 4 ser",
+ "button1_text":"2500",
+ "button2_text":"4200",
+ "button3_text":"8250",
+ "button4_text":"15300",
   
  "button1_link":"https://smrturl.co/o/514934/53245696?s1=",
  "button2_link":"https://smrturl.co/o/514934/53245696?s1=",
